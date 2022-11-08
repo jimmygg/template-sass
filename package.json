@@ -11,8 +11,5 @@
   "license": "ISC",
   "dependencies": {
     "sass": "^1.56.0"
-  },
-  "volta": {
-    "node": "18.12.1"
   }
 }
